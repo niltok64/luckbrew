@@ -11,5 +11,5 @@ Linux support isn't available yet, but you can download the source code and run 
  ## Credits
 - Me(Imsad2, or `mink64`)
 - The developers of [py2exe](https://github.com/py2exe/py2exe) for creating py2exe so that I could convert my Python code into an exe
-- The developers of [Krita](https://github.com/KDE/krita) for creating Krita so that I could make the logo of Luckbrew
+- The developers of [Cooltext.com](https://cooltext.com/) for creating Cooltext.com so that I could make the logo
 - Guido van Rossum for creating [Python](https://github.com/topics/python) so that I could write the flippin' program in the first place
