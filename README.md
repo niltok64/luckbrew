@@ -9,7 +9,7 @@ To play Luckbrew simply download the exe and double-click it. Windows'll probabl
 Linux support isn't available yet, but you can download the source code and run the `.py` file with...well, Python. You'll need at least Python 3.9 in my experience for it to work.
 
  ## Credits
-- Me(Imsad2, or `mink64`)
+- Me(Imsad2)
 - The developers of [py2exe](https://github.com/py2exe/py2exe) for creating py2exe so that I could convert my Python code into an exe
 - The developers of [Cooltext.com](https://cooltext.com/) for creating Cooltext.com so that I could make the logo
 - Guido van Rossum for creating [Python](https://github.com/topics/python) so that I could write the flippin' program in the first place
