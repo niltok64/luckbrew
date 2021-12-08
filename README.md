@@ -8,6 +8,11 @@ To play Luckbrew simply download the exe and double-click it. Windows'll probabl
 
 Linux support isn't available yet, but you can download the source code and run the `.py` file with...well, Python. You'll need at least Python 3.9 in my experience for it to work.
 
+## Building
+To build Luckbrew simply run `pyinstaller` on main.py, with the command<br>
+<code>pyinstaller main.py --onefile</code><br>
+Wait for pyinstaller to finish and you're done!
+
  ## Credits
 - Me(Imsad2)
 - The developers of [pyinstaller](https://github.com/pyinstaller/pyinstaller) for creating pyinstaller so that I could convert my Python code into an exe
