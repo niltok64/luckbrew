@@ -1,3 +1,4 @@
+@ECHO OFF
 echo BUILDING DEM CODE
 pip install pyinstaller
 mkdir built
