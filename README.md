@@ -1,8 +1,8 @@
 # Luckbrew <!-- Metadata: type: Outline; tags: games,coding,python; created: 2021-12-05 12:24:14; reads: 15; read: 2021-12-05 12:40:23; revision: 15; modified: 2021-12-05 12:40:23; importance: 0/5; urgency: 0/5; -->
 **Luckbrew** is a small game where you brew potions and other stuff that increase luck, then sell them to people who just can't catch a break.
 
-This project is in no affiliated to homebrew, which is unrelated.
-
+This project is in no affiliated to homebrew, which is unrelated.<br>
+Itch.io link: https://imsad2.itch.io/luckbrew
  ## Usage
 To play Luckbrew simply download the exe and double-click it. Windows'll probably say that it doesn't recognize the program; if that's the case, simply click "Learn more" and then "Run anyway". There's isn't really any installer or anything, but you can create a shortcut on your Desktop if you'd like.
 
