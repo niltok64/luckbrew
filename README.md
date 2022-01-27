@@ -1,4 +1,4 @@
-# Luckbrew <!-- Metadata: type: Outline; tags: games,coding,python; created: 2021-12-05 12:24:14; reads: 15; read: 2021-12-05 12:40:23; revision: 15; modified: 2021-12-05 12:40:23; importance: 0/5; urgency: 0/5; -->
+![Luckbrew logo](logo.png)<!-- Metadata: type: Outline; tags: games,coding,python; created: 2021-12-05 12:24:14; reads: 15; read: 2021-12-05 12:40:23; revision: 15; modified: 2021-12-05 12:40:23; importance: 0/5; urgency: 0/5; --><br>
 **Luckbrew** is a small game where you brew potions and other stuff that increase luck, then sell them to people who just can't catch a break.
 
 This project is in no affiliated to homebrew, which is unrelated.<br>
